@@ -23,3 +23,4 @@ if numero >=1 and numero <=6:
             
 else: 
     print("❌ Numero invalido")
+    

@@ -47,7 +47,7 @@ try:
     print(f"{base} elevado a {exponente} es igual a: {resultado}")
 
 except ValueError:
-    print("\nError: Por favor, ingrese solo números válidos (sin letras ni caracteres especiales).")
+    print("\n: Por favor, ingrese solo números válidos (sin letras ni caracteres especiales).")
 
 import math
 
